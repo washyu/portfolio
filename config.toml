@@ -1,0 +1,21 @@
+baseURL = 'https://www.shaunjackson.spaceg/'
+languageCode = 'en-us'
+title = 'Shaun Jackson'
+theme = 'PaperMod'
+
+
+[params]
+  author = "Shaun Jackson"
+  description = "Senior SDET | Test Automation | Python | Java"
+  
+[params.homeInfoParams]
+  Title = "Shaun Jackson"
+  Content = "Senior Software Developer in Test with 20+ years of experience at Blizzard, Amazon, and Microsoft."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/washyu"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/shaunjacksondeveloper/"
