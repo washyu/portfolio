@@ -1,3 +1,11 @@
+---
+title: "From Bluetooth Fuzz to Bit-Perfect: Building a Raspberry Pi DAC HAT Audio Player"
+date: 2026-04-22
+draft: false
+tags: ["raspberry-pi", "audio", "homelab", "plex", "hifi", "dac", "queen"]
+description: "How a couple of flat-sounding Queen CDs led me down a rabbit hole of bad CD masters, Pi DAC HATs, and replacing Bluetooth with a proper hi-fi endpoint."
+---
+
 # From Bluetooth Fuzz to Bit-Perfect: Building a Raspberry Pi DAC HAT Audio Player
 
 *A homelab engineer's journey from muffled Queen albums to a proper hi-fi endpoint*
